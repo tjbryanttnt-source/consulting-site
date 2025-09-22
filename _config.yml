@@ -74,3 +74,9 @@
   font_serif: "Georgia, Cambria, \x27Times New Roman\x27, Times, serif"
 
 permalink: pretty
+
+sitemap:
+  filename: sitemap.xml
+  exclude:
+    - /assets/
+  include_posts: true
