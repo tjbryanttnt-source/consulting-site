@@ -65,10 +65,10 @@
 
 # Branding
  brand:
-  primary_color: "#D72638"
-  secondary_color: "#111827"
-  accent_color: "#F59E0B"
-  light_color: "#F4F1EA"
+  primary_color: "#C81E2A" # deeper red from logo
+  secondary_color: "#0F172A" # near-black for headings
+  accent_color: "#E98A00" # richer orange/yellow accent
+  light_color: "#F3F0EA" # slightly darker light background
   dark_color: "#0B0F16"
   font_sans: "Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
   font_serif: "Georgia, Cambria, 'Times New Roman', Times, serif"
