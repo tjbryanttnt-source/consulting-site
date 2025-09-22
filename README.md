@@ -1,5 +1,8 @@
 # Acme Consulting Website
 
+[![Deploy Jekyll site to Pages](https://github.com/tjbryanttnt-source/consulting-site/actions/workflows/pages.yml/badge.svg)](https://github.com/tjbryanttnt-source/consulting-site/actions/workflows/pages.yml)
+
+
 A GitHub Pages-ready Jekyll site for a consulting business. Includes branded design, services, testimonials, contact form, and blog.
 
 ## Quick start
