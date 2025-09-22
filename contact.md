@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Email us at [hello@example.com](mailto:hello@example.com) or use the form below.
+Email us at [tjbryant.tnt@gmail.com](mailto:tjbryant.tnt@gmail.com) or use the form below.
 
 <form action="https://formspree.io/f/your-form-id" method="POST" class="contact-form">
   <label>
