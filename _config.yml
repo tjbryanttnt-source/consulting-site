@@ -2,17 +2,17 @@
 # GitHub Pages compatible Jekyll config
 
 # Update these for your brand
- title: "Acme Consulting"
+ title: "TNT Marketing Consultants, LLC."
  description: "Expert consulting that turns complexity into clarity and results."
  url: "https://tntmarketingconsultants.com"
  baseurl: "" # e.g. /my-site if publishing to a project page
 
 # Author/owner
  author:
-  name: "Acme Consulting"
-  email: "hello@example.com"
-  twitter: "acme_consulting"
-  linkedin: "company/acme-consulting"
+  name: "Tim Bryant Principal/Owner"
+  email: "tjbryant.tnt@gmail.com"
+  twitter: ""
+  linkedin: ""
 
 # Theme and plugins
  markdown: kramdown
