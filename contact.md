@@ -8,7 +8,7 @@ permalink: /contact/
   <div class="contact">
     <div class="contact-panel">
       <h2>Let’s talk</h2>
-      <p class="muted">Share your goals and the challenges in your way. We’ll respond within one business day with next steps.</p>
+      <p class="muted">Please share your objectives and any immediate constraints. We will respond within one business day with proposed next steps.</p>
       <div class="spacer"></div>
       <form action="https://formspree.io/f/your-form-id" method="POST" class="contact-form">
         <label>

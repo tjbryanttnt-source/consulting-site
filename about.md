@@ -12,8 +12,8 @@ permalink: /about/
     <div class="media-body">
       <span class="eyebrow">About TNT</span>
       <h2>Experienced CRM and growth consultants</h2>
-      <p>We help organizations connect data, teams, and tooling so marketing can ship with confidence. Our senior consultants bring backgrounds in data strategy, platform implementation, channel activation, and operations.</p>
-      <p>We’ve led initiatives for startups and enterprises alike. Expect pragmatic advice, tight execution, and outcomes you can measure.</p>
+      <p>We partner with organizations to align data, teams, and platforms so marketing can execute with confidence. Our senior consultants bring deep experience across data strategy, platform implementation, channel activation, and operations.</p>
+      <p>We have led initiatives for startups and global enterprises. Expect pragmatic guidance, disciplined execution, and outcomes that can be measured.</p>
     </div>
   </div>
 </section>
@@ -35,8 +35,8 @@ permalink: /about/
         <div class="card-body">
           <h3>Approach</h3>
           <ul>
-            <li>Rapid discovery and alignment</li>
-            <li>Weekly reviews and tangible artifacts</li>
+            <li>Focused discovery and alignment</li>
+            <li>Weekly reviews with tangible artifacts</li>
             <li>Continuous measurement and iteration</li>
           </ul>
         </div>
@@ -45,8 +45,8 @@ permalink: /about/
         <div class="card-body">
           <h3>Outcomes</h3>
           <ul>
-            <li>Faster delivery velocity</li>
-            <li>Higher channel performance</li>
+            <li>Increased delivery velocity</li>
+            <li>Improved channel performance</li>
             <li>Analytics‑ready data foundations</li>
           </ul>
         </div>

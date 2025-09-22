@@ -17,12 +17,12 @@ hero:
   <div class="media">
     <div class="media-body">
       <span class="eyebrow">Why TNT Marketing Consultants</span>
-      <h2>Practical expertise that moves the metrics that matter</h2>
-      <p>We help teams turn CRM complexity into simple, scalable programs. From strategy through execution, we focus on measurable impact, tight feedback loops, and clear ownership.</p>
+      <h2>Practical expertise that advances material business outcomes</h2>
+      <p>We assist organizations in translating CRM complexity into scalable, well-governed programs. From strategy through execution, our focus is measurable impact, disciplined cadence, and clear accountability.</p>
       <ul>
-        <li>Clear outcomes with defined artifacts and milestones</li>
-        <li>Senior consultants leading and doing the work</li>
-        <li>No surprises—transparent scope, timeline, and cost</li>
+        <li>Defined outcomes with explicit artifacts and milestones</li>
+        <li>Senior practitioners providing leadership and delivery</li>
+        <li>Transparent scope, timelines, and commercial terms</li>
       </ul>
     </div>
     <div class="media-image">
@@ -35,8 +35,8 @@ hero:
   <div class="container">
     <div class="section-header">
       <span class="eyebrow">What we do</span>
-      <h2>Build a CRM engine for growth</h2>
-      <p class="muted">We design the strategy, data foundations, and operating model that let marketing and product teams ship confidently at scale.</p>
+      <h2>Establish a durable CRM growth engine</h2>
+      <p class="muted">We design strategy, data foundations, and operating models that enable marketing and product teams to execute with confidence at scale.</p>
     </div>
     <div class="grid grid-3">
       <article class="card">
@@ -44,11 +44,11 @@ hero:
           <img alt="CRM strategy" src="https://images.unsplash.com/photo-1542744173-05336fcc7ad4?q=80&w=1600&auto=format&fit=crop" />
         </div>
         <div class="card-body">
-          <h3>Full-Stack CRM Strategy</h3>
+          <h3>Full‑Stack CRM Strategy</h3>
           <ul>
             <li>Audience and lifecycle strategy</li>
             <li>Channel mix and opportunity sizing</li>
-            <li>Roadmaps tied to business KPIs</li>
+            <li>Roadmaps linked to business KPIs</li>
           </ul>
         </div>
       </article>
@@ -61,7 +61,7 @@ hero:
           <ul>
             <li>Runbooks, processes, and governance</li>
             <li>Metadata and contact history standards</li>
-            <li>Team structure and KPI frameworks</li>
+            <li>Team design and KPI frameworks</li>
           </ul>
         </div>
       </article>
@@ -74,7 +74,7 @@ hero:
           <ul>
             <li>Audience matching and governance</li>
             <li>Requirements and source‑of‑truth alignment</li>
-            <li>Instrumentation for channel performance</li>
+            <li>Instrumentation for channel performance and attribution</li>
           </ul>
         </div>
       </article>
@@ -90,7 +90,7 @@ hero:
     <div class="media-body">
       <span class="eyebrow">How we work</span>
       <h2>Transparent, iterative delivery</h2>
-      <p>We work in short cycles with weekly reviews and tangible deliverables. You see progress early, risks surfaced fast, and decisions captured as we go.</p>
+      <p>We operate in short iterations with weekly reviews and tangible deliverables. Progress is visible early, risks are surfaced promptly, and decisions are documented throughout.</p>
       <div class="cta-buttons">
         <a class="btn btn-primary" href="/services/">Explore services</a>
         <a class="btn btn-secondary" href="/contact/">Start a conversation</a>

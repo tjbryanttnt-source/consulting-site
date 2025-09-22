@@ -8,7 +8,7 @@ permalink: /services/
   <div class="section-header">
     <span class="eyebrow">Services</span>
     <h2>Flexible, outcome‑focused engagements</h2>
-    <p class="muted">We align on goals, define the artifacts, and deliver in tight cycles—so you see impact quickly.</p>
+    <p class="muted">We align on objectives, define the deliverables, and execute in disciplined iterations—so impact is realized quickly.</p>
   </div>
   <div class="grid grid-3">
     <article class="card">
@@ -19,8 +19,8 @@ permalink: /services/
         <h3>Full‑Stack CRM Strategy</h3>
         <ul>
           <li>Segmentation and lifecycle design</li>
-          <li>Channel research and bet sizing</li>
-          <li>Practical roadmaps and playbooks</li>
+          <li>Channel research and investment sizing</li>
+          <li>Practical roadmaps and operating playbooks</li>
         </ul>
       </div>
     </article>
@@ -33,7 +33,7 @@ permalink: /services/
         <ul>
           <li>Runbooks, processes, and governance</li>
           <li>Metadata and contact history standards</li>
-          <li>Team structure and KPI frameworks</li>
+          <li>Team design and KPI frameworks</li>
         </ul>
       </div>
     </article>
@@ -46,7 +46,7 @@ permalink: /services/
         <ul>
           <li>Audience matching and refinement</li>
           <li>Requirements and source‑of‑truth alignment</li>
-          <li>Instrumentation for channel performance</li>
+          <li>Instrumentation for channel performance and attribution</li>
         </ul>
       </div>
     </article>
