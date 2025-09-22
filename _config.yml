@@ -1,0 +1,76 @@
+# Site settings
+# GitHub Pages compatible Jekyll config
+
+# Update these for your brand
+ title: "Acme Consulting"
+ description: "Expert consulting that turns complexity into clarity and results."
+ url: "https://your-github-username.github.io"
+ baseurl: "" # e.g. /my-site if publishing to a project page
+
+# Author/owner
+ author:
+  name: "Acme Consulting"
+  email: "hello@example.com"
+  twitter: "acme_consulting"
+  linkedin: "company/acme-consulting"
+
+# Theme and plugins
+ markdown: kramdown
+ plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+ collections:
+  posts:
+   output: true
+
+# Build settings
+ exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - scripts
+  - node_modules
+
+# Defaults
+ defaults:
+  - scope:
+     path: ""
+     type: "posts"
+    values:
+     layout: post
+  - scope:
+     path: ""
+     type: "pages"
+    values:
+     layout: page
+
+# Navigation (used by includes/nav.html)
+ nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Services"
+    url: "/services/"
+  - title: "Testimonials"
+    url: "/testimonials/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Branding
+ brand:
+  primary_color: "#1f5eff"
+  secondary_color: "#0f172a"
+  accent_color: "#10b981"
+  light_color: "#f8fafc"
+  dark_color: "#0b1220"
+  font_sans: "Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+  font_serif: "Georgia, Cambria, \x27Times New Roman\x27, Times, serif"
+
+permalink: pretty

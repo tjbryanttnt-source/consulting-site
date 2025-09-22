@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container">
+    <h1>{{ page.hero.heading | default: site.description }}</h1>
+    <p class="subheading">{{ page.hero.subheading }}</p>
+    <div class="cta-buttons">
+      {% if page.hero.primary_cta %}<a class="btn btn-primary" href="{{ page.hero.primary_cta.url }}">{{ page.hero.primary_cta.label }}</a>{% endif %}
+      {% if page.hero.secondary_cta %}<a class="btn btn-secondary" href="{{ page.hero.secondary_cta.url }}">{{ page.hero.secondary_cta.label }}</a>{% endif %}
+    </div>
+  </div>
+</section>
+
+<section class="content container">
+  {{ content }}
+</section>
