@@ -18,8 +18,9 @@ img{max-width:100%;height:auto;display:block}
 .nav-wrapper{display:flex;align-items:center;justify-content:space-between;padding:1rem 0}
 .site-nav ul{list-style:none;display:flex;gap:1rem;margin:0;padding:0}
 .brand{font-weight:700;color:var(--color-secondary)}
-.brand{display:flex;align-items:center;gap:.6rem}
-.brand-logo{width:34px;height:34px;object-fit:contain}
+.brand{display:flex;align-items:center;gap:.5rem}
+.brand-logo{width:28px;height:28px;object-fit:contain}
+@media (max-width: 640px){.brand-logo{width:24px;height:24px}}
 .hero{background:linear-gradient(180deg, color-mix(in srgb, var(--color-primary) 10%, transparent), color-mix(in srgb, var(--color-accent) 10%, transparent));padding:3rem 0;margin-bottom:2rem}
 .hero h1{font-size:clamp(1.75rem,3vw,2.75rem);margin:0 0 .5rem 0;color:var(--color-secondary)}
 .subheading{font-size:1.125rem;color:#334155;margin:0 0 1.25rem 0}
@@ -30,6 +31,7 @@ img{max-width:100%;height:auto;display:block}
 .content{padding-bottom:3rem}
 .site-footer{border-top:1px solid #e2e8f0;background:white}
 .footer-inner{display:flex;align-items:center;justify-content:space-between;padding:1.25rem 0;flex-wrap:wrap;gap:.75rem}
+.footer-left{display:flex;align-items:center;gap:.5rem}
 @media (max-width: 640px){.site-nav ul{flex-wrap:wrap}}
 
 /* Typography and layout refinements */

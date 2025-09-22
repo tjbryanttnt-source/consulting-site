@@ -1,5 +1,8 @@
 <div class="container footer-inner">
-  <p>© {{ site.time | date: "%Y" }} {{ site.title }} </p>
+  <div class="footer-left">
+    <img src="{{ "/assets/images/logo.jpg" | relative_url }}" alt="TNT logo" class="brand-logo" width="24" height="24" loading="lazy" />
+    <p>© {{ site.time | date: "%Y" }} {{ site.title }} </p>
+  </div>
   <p>
     <a href="https://github.com"></a>
   </p>
