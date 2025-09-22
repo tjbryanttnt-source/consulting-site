@@ -29,3 +29,50 @@ img{max-width:100%;height:auto;display:block}
 .site-footer{border-top:1px solid #e2e8f0;background:white}
 .footer-inner{display:flex;align-items:center;justify-content:space-between;padding:1.25rem 0;flex-wrap:wrap;gap:.75rem}
 @media (max-width: 640px){.site-nav ul{flex-wrap:wrap}}
+
+/* Typography and layout refinements */
+h1,h2,h3{color:var(--color-secondary);line-height:1.25;margin:0 0 .75rem 0}
+p{margin:0 0 1rem 0;color:#334155}
+ul{padding-left:1rem;color:#334155}
+
+/* Section helpers */
+.section{padding:3rem 0}
+.section-muted{background:white;border-top:1px solid #e2e8f0;border-bottom:1px solid #e2e8f0}
+.section .section-header{margin-bottom:1.5rem}
+.section .section-header p{max-width:60ch}
+
+/* Media blocks */
+.media{display:grid;grid-template-columns:1.2fr 1fr;gap:2rem;align-items:center}
+.media.reverse{grid-template-columns:1fr 1.2fr}
+.media .media-image{border-radius:.75rem;overflow:hidden;box-shadow:0 10px 20px rgba(2,6,23,.08)}
+.media .media-body h2{margin-top:0}
+@media (max-width: 900px){.media{grid-template-columns:1fr;}}
+
+/* Feature grid */
+.grid{display:grid;gap:1.25rem}
+.grid-3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width: 900px){.grid-3{grid-template-columns:1fr 1fr}}
+@media (max-width: 640px){.grid-3,.grid-2{grid-template-columns:1fr}}
+
+/* Cards */
+.card{background:white;border:1px solid #e2e8f0;border-radius:.75rem;overflow:hidden;display:flex;flex-direction:column}
+.card .card-media{aspect-ratio:16/9;background:#f1f5f9}
+.card .card-body{padding:1rem}
+.card h3{margin:.25rem 0 .5rem 0;font-size:1.125rem}
+.card ul{margin:.25rem 0}
+
+/* Contact form */
+.contact{display:grid;grid-template-columns:1.1fr .9fr;gap:2rem}
+.contact .contact-panel{background:white;border:1px solid #e2e8f0;border-radius:.75rem;padding:1.25rem}
+.contact-form{display:grid;gap:.75rem}
+.contact-form label{display:grid;gap:.35rem;font-weight:600;color:#334155}
+.contact-form input,.contact-form textarea{padding:.7rem .8rem;border:1px solid #cbd5e1;border-radius:.5rem;background:#f8fafc}
+.contact-form input:focus,.contact-form textarea:focus{outline:none;border-color:var(--color-primary);box-shadow:0 0 0 3px rgba(31,94,255,.15)}
+.contact-form .btn{justify-self:start}
+@media (max-width: 900px){.contact{grid-template-columns:1fr}}
+
+/* Utility */
+.muted{color:#64748b}
+.eyebrow{letter-spacing:.08em;text-transform:uppercase;font-size:.8rem;color:#64748b}
+.spacer{height:1.5rem}

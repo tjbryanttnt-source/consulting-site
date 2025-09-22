@@ -4,20 +4,36 @@ title: Contact
 permalink: /contact/
 ---
 
-Email us at [tjbryant.tnt@gmail.com](mailto:tjbryant.tnt@gmail.com) or use the form below.
-
-<form action="https://formspree.io/f/your-form-id" method="POST" class="contact-form">
-  <label>
-    Your name
-    <input type="text" name="name" required />
-  </label>
-  <label>
-    Your email
-    <input type="email" name="email" required />
-  </label>
-  <label>
-    How can we help?
-    <textarea name="message" rows="5" required></textarea>
-  </label>
-  <button type="submit" class="btn btn-primary">Send message</button>
-</form>
+<section class="section container">
+  <div class="contact">
+    <div class="contact-panel">
+      <h2>Let’s talk</h2>
+      <p class="muted">Tell us about your goals and challenges. We’ll follow up within one business day.</p>
+      <div class="spacer"></div>
+      <form action="https://formspree.io/f/your-form-id" method="POST" class="contact-form">
+        <label>
+          Your name
+          <input type="text" name="name" required />
+        </label>
+        <label>
+          Your email
+          <input type="email" name="email" required />
+        </label>
+        <label>
+          Company (optional)
+          <input type="text" name="company" />
+        </label>
+        <label>
+          How can we help?
+          <textarea name="message" rows="6" required></textarea>
+        </label>
+        <button type="submit" class="btn btn-primary">Send message</button>
+      </form>
+    </div>
+    <div class="media-image">
+      <img alt="Contact" src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1600&auto=format&fit=crop" />
+    </div>
+  </div>
+  <div class="spacer"></div>
+  <p>Email us directly at <a href="mailto:tjbryant.tnt@gmail.com">tjbryant.tnt@gmail.com</a>.</p>
+</section>
