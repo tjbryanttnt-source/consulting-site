@@ -8,7 +8,7 @@ permalink: /services/
   <div class="section-header">
     <span class="eyebrow">Services</span>
     <h2>Flexible, outcome‑focused engagements</h2>
-    <p class="muted">Clear deliverables, timelines, and pricing aligned to your business goals.</p>
+    <p class="muted">We align on goals, define the artifacts, and deliver in tight cycles—so you see impact quickly.</p>
   </div>
   <div class="grid grid-3">
     <article class="card">
@@ -18,9 +18,9 @@ permalink: /services/
       <div class="card-body">
         <h3>Full‑Stack CRM Strategy</h3>
         <ul>
-          <li>Targeting analysis and segmentation</li>
-          <li>Channel research and opportunity sizing</li>
-          <li>Multi‑phase roadmaps and playbooks</li>
+          <li>Segmentation and lifecycle design</li>
+          <li>Channel research and bet sizing</li>
+          <li>Practical roadmaps and playbooks</li>
         </ul>
       </div>
     </article>
@@ -31,9 +31,9 @@ permalink: /services/
       <div class="card-body">
         <h3>Operations & Scale</h3>
         <ul>
-          <li>Runbooks, process and governance</li>
-          <li>Metadata and contact history design</li>
-          <li>Org design and KPI frameworks</li>
+          <li>Runbooks, processes, and governance</li>
+          <li>Metadata and contact history standards</li>
+          <li>Team structure and KPI frameworks</li>
         </ul>
       </div>
     </article>
@@ -42,7 +42,7 @@ permalink: /services/
         <img alt="Analytics readiness" src="https://images.unsplash.com/photo-1551281044-8c9478177256?q=80&w=1600&auto=format&fit=crop" />
       </div>
       <div class="card-body">
-        <h3>Analytics Reporting Prep</h3>
+        <h3>Analytics Readiness</h3>
         <ul>
           <li>Audience matching and refinement</li>
           <li>Requirements and source‑of‑truth alignment</li>
@@ -59,9 +59,9 @@ permalink: /services/
       <div class="media-body">
         <h2>Engagement model</h2>
         <ul>
-          <li>Rapid discovery → plan → deliver in iterative cycles</li>
+          <li>Discover → plan → deliver in iterative cycles</li>
           <li>Weekly checkpoints with tangible artifacts</li>
-          <li>Shared roadmap, risks, and decisions log</li>
+          <li>Shared roadmap with risks and decisions</li>
         </ul>
       </div>
       <div class="media-image">
