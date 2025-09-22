@@ -18,7 +18,9 @@ img{max-width:100%;height:auto;display:block}
 .nav-wrapper{display:flex;align-items:center;justify-content:space-between;padding:1rem 0}
 .site-nav ul{list-style:none;display:flex;gap:1rem;margin:0;padding:0}
 .brand{font-weight:700;color:var(--color-secondary)}
-.hero{background:linear-gradient(180deg, rgba(31,94,255,0.08), rgba(16,185,129,0.08));padding:3rem 0;margin-bottom:2rem}
+.brand{display:flex;align-items:center;gap:.6rem}
+.brand-logo{width:34px;height:34px;object-fit:contain}
+.hero{background:linear-gradient(180deg, color-mix(in srgb, var(--color-primary) 10%, transparent), color-mix(in srgb, var(--color-accent) 10%, transparent));padding:3rem 0;margin-bottom:2rem}
 .hero h1{font-size:clamp(1.75rem,3vw,2.75rem);margin:0 0 .5rem 0;color:var(--color-secondary)}
 .subheading{font-size:1.125rem;color:#334155;margin:0 0 1.25rem 0}
 .cta-buttons{display:flex;gap:.75rem;flex-wrap:wrap}

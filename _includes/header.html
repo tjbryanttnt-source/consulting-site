@@ -1,4 +1,7 @@
 <div class="container nav-wrapper">
-  <a class="brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+  <a class="brand" href="{{ "/" | relative_url }}">
+    <img src="{{ "/assets/images/logo.jpg" | relative_url }}" alt="TNT Marketing Consultants logo" class="brand-logo" />
+    <span>{{ site.title }}</span>
+  </a>
   {% include nav.html %}
 </div>

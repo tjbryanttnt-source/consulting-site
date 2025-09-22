@@ -65,13 +65,13 @@
 
 # Branding
  brand:
-  primary_color: "#1f5eff"
-  secondary_color: "#0f172a"
-  accent_color: "#10b981"
-  light_color: "#f8fafc"
-  dark_color: "#0b1220"
+  primary_color: "#D72638"
+  secondary_color: "#111827"
+  accent_color: "#F59E0B"
+  light_color: "#F4F1EA"
+  dark_color: "#0B0F16"
   font_sans: "Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-  font_serif: "Georgia, Cambria, \x27Times New Roman\x27, Times, serif"
+  font_serif: "Georgia, Cambria, 'Times New Roman', Times, serif"
 
 permalink: pretty
 
