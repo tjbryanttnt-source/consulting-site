@@ -25,7 +25,8 @@ img{max-width:100%;height:auto;display:block}
 .hero h1{font-size:clamp(1.75rem,3vw,2.75rem);margin:0 0 .5rem 0;color:var(--color-secondary)}
 .subheading{font-size:1.125rem;color:#334155;margin:0 0 1.25rem 0}
 .cta-buttons{display:flex;gap:.75rem;flex-wrap:wrap}
-.btn{display:inline-block;padding:.7rem 1rem;border-radius:.5rem;border:1px solid transparent}
+.btn{display:inline-block;padding:.7rem 1rem;border-radius:.5rem;border:1px solid transparent;box-shadow:0 1px 2px rgba(15,23,42,.06);transition:box-shadow .2s ease,transform .2s ease}
+.btn:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(15,23,42,.12)}
 .btn-primary{background:var(--color-primary);color:white;border-color:var(--color-primary)}
 .btn-secondary{background:white;color:var(--color-secondary);border-color:var(--color-secondary)}
 .btn-accent{background:var(--color-accent);color:#111827;border-color:var(--color-accent)}
@@ -62,15 +63,16 @@ ul{padding-left:1rem;color:#334155}
 @media (max-width: 640px){.grid-3,.grid-2{grid-template-columns:1fr}}
 
 /* Cards */
-.card{background:white;border:1px solid #e2e8f0;border-radius:.75rem;overflow:hidden;display:flex;flex-direction:column}
+.card{background:white;border:1px solid #e2e8f0;border-radius:.75rem;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 8px 20px rgba(2,6,23,.06);transition:transform .2s ease,box-shadow .2s ease}
 .card .card-media{aspect-ratio:16/9;background:#f1f5f9}
 .card .card-body{padding:1rem;border-top:3px solid var(--color-primary)}
+.card:hover{transform:translateY(-2px);box-shadow:0 16px 30px rgba(2,6,23,.12)}
 .card h3{margin:.25rem 0 .5rem 0;font-size:1.125rem}
 .card ul{margin:.25rem 0}
 
 /* Contact form */
 .contact{display:grid;grid-template-columns:1.1fr .9fr;gap:2rem}
-.contact .contact-panel{background:white;border:1px solid #e2e8f0;border-radius:.75rem;padding:1.25rem}
+.contact .contact-panel{background:white;border:1px solid #e2e8f0;border-radius:.75rem;padding:1.25rem;box-shadow:0 8px 20px rgba(2,6,23,.06)}
 .contact-form{display:grid;gap:.75rem}
 .contact-form label{display:grid;gap:.35rem;font-weight:600;color:#334155}
 .contact-form input,.contact-form textarea{padding:.7rem .8rem;border:1px solid #cbd5e1;border-radius:.5rem;background:#f8fafc}
