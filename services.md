@@ -13,7 +13,7 @@ permalink: /services/
   <div class="grid grid-3">
     <article class="card">
       <div class="card-media">
-        <img alt="CRM Strategy" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1600&auto=format&fit=crop" />
+        <img alt="CRM Strategy" src="https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1600&auto=format&fit=crop" />
       </div>
       <div class="card-body">
         <h3>Full‑Stack CRM Strategy</h3>
@@ -26,7 +26,7 @@ permalink: /services/
     </article>
     <article class="card">
       <div class="card-media">
-        <img alt="Operations and scale" src="https://images.unsplash.com/photo-1556761175-129418cb2dfe?q=80&w=1600&auto=format&fit=crop" />
+        <img alt="Operations and scale" src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1600&auto=format&fit=crop" />
       </div>
       <div class="card-body">
         <h3>Operations & Scale</h3>
@@ -39,7 +39,7 @@ permalink: /services/
     </article>
     <article class="card">
       <div class="card-media">
-        <img alt="Analytics readiness" src="https://images.unsplash.com/photo-1551281044-8c9478177256?q=80&w=1600&auto=format&fit=crop" />
+        <img alt="Analytics readiness" src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1600&auto=format&fit=crop" />
       </div>
       <div class="card-body">
         <h3>Analytics Readiness</h3>
@@ -65,7 +65,7 @@ permalink: /services/
         </ul>
       </div>
       <div class="media-image">
-        <img alt="Project planning" src="https://images.unsplash.com/photo-1529336953121-a0ce23dba0c1?q=80&w=1600&auto=format&fit=crop" />
+        <img alt="Project planning" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1600&auto=format&fit=crop" />
       </div>
     </div>
   </div>
