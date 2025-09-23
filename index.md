@@ -6,9 +6,6 @@ hero:
   heading: "Turn CRM complexity into clarity."
   subheading: "CRM Strategy, operations, and platform consulting to complement your Marketers and Data Teams to accelerate company growth."
   primary_cta:
-    label: "Our Services"
-    url: "/services/"
-  secondary_cta:
     label: "Get in touch"
     url: "/contact/"
 ---
